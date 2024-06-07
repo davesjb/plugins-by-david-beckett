@@ -1,0 +1,4 @@
+*** Custom Product Summary Changelog ***
+
+2024-04-01 - version 1.0.1
+* Fixed - Important bug fix
